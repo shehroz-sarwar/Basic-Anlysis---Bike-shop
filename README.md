@@ -5,7 +5,6 @@
 This Power BI report analyzes bike rental data to uncover patterns in revenue, profit, rider behavior, and seasonal trends.  
 The goal is to generate actionable insights that help ABC Bike Shop make data-driven decisions and improve business performance throughout the year.
 
----
 
 ## 🧰 Tools Used
 
@@ -13,7 +12,6 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
 - **SQL** – for data cleaning, joining tables, and calculating revenue/profit  
 - **Power BI** – for data modeling using DAX and creating the final report  
 
----
 
 ## 🔄 Process
 
@@ -41,7 +39,6 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
    [Download Full Report (PDF)](Report/Bicycle_Report.pdf)
 
 
----
 
 ## 🔍 Insights
 
@@ -51,14 +48,12 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
 - **Total Profit**: ~$10 million  
 - **Profit Margin**: 69%
 
----
 
 ### 👥 Rider Demographics
 - **Registered Riders**: 81.17%  
 - **Casual Riders**: 18.83%  
 ➡️ The majority of business comes from loyal, registered users.
 
----
 
 ### 🌦 Revenue by Season
 - **Summer (Season 3)**: $4.9M  
@@ -67,21 +62,17 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
 - **Winter (Season 1)**: $2.2M  
 ➡️ Summer is the most profitable season; winter brings the least revenue.
 
----
 
 ### ⏰ Peak Hours and Days
 - Most sales happen between **10 AM and 3 PM**  
 - **Wednesdays and Fridays** show the highest hourly earnings  
 ➡️ These are the best times for staffing and marketing efforts.
 
----
 
 ### 📅 Yearly Trends (2021–2022)
 - Steady growth in riders and revenue across both years  
 - **May to September** consistently shows the highest activity  
 ➡️ Indicates strong seasonal demand that can be further leveraged.
-
----
 
 
 ## 🚀 How to Use the Report
@@ -91,6 +82,5 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
 3. Refresh the data connection if needed  
 4. Interact with visuals to explore trends by **season, rider type, and time**  
 
----
 
 📫 [**Questions or feedback?** Feel free to reach out or connect with me on LinkedIn!](www.linkedin.com/in/shehrozsarwar)
