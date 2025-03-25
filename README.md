@@ -20,7 +20,7 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
   
 📊 [Download CSV Data File](Data/bike_share_yr_0.csv)
 📊 [Download CSV Data File](Data/bike_share_yr_1.csv)
-📊 [Download CSV Data File](./bike_data.xlsx)
+📊 [Download CSV Data File](Data/cost_table.csv)
 
 
 ### 2. Data Manipulation
