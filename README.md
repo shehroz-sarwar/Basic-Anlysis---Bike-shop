@@ -24,10 +24,11 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
 - Combined data from two years and joined it with cost-related information.
 - Created calculated fields such as Revenue and Profit inside SQL before moving the data to Power BI.
 
+
+
 ### 3. Power BI Modeling
 - Imported the cleaned dataset into Power BI.
 - Built KPIs and calculated metrics using **DAX**.
-- Did not create relationships — used a flat, single-table model.
 
 ### 4. Report Creation
 - Created a detailed and interactive **Power BI Report**.
@@ -81,28 +82,13 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
 
 ---
 
-## ❗ What Can Be Improved?
-
-1. **Increase Casual Rider Engagement**  
-   - Launch short-term promotions, weekend bundles, or referral offers.
-
-2. **Boost Winter Performance**  
-   - Offer off-season discounts, loyalty rewards, or indoor biking events.
-
-3. **Optimize Resources Around Peak Hours**  
-   - Schedule more staff and make more bikes available from 10 AM to 3 PM, especially on mid-week days.
-
-4. **Introduce Dynamic Pricing**  
-   - Offer flexible pricing based on demand, weather, or time to increase profitability during slower periods.
-
----
 
 ## 🚀 How to Use the Report
 
-1. Open the `.pbix` file using **Power BI Desktop**  
-2. Refresh the data connection if needed  
-3. Interact with visuals to explore trends by **season, rider type, and time**  
-4. Use insights to make informed decisions for **marketing, staffing, and pricing strategies**
+1. Open the `.pbix` file using **Power BI Desktop**
+    [Download Full Report (PDF)](Report/Bicycle_Report.pdf) 
+3. Refresh the data connection if needed  
+4. Interact with visuals to explore trends by **season, rider type, and time**  
 
 ---
 
