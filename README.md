@@ -18,11 +18,11 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
 ### 1. Data Import
 - Downloaded the dataset and imported it into a **local Microsoft SQL Server** instance.
   
-📊 [Download CSV Data File](Data/bike_share_yr_0.csv)
+  📊 [Download CSV Data File](Data/bike_share_yr_0.csv)
 
-📊 [Download CSV Data File](Data/bike_share_yr_1.csv)
+  📊 [Download CSV Data File](Data/bike_share_yr_1.csv)
 
-📊 [Download CSV Data File](Data/cost_table.csv)
+  📊 [Download CSV Data File](Data/cost_table.csv)
 
 
 ### 2. Data Manipulation
