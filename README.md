@@ -86,7 +86,7 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
 ## 🚀 How to Use the Report
 
 1. Open the `.pbix` file using **Power BI Desktop**
-    [Download Report (PDF)](Report/Bicycle_Report.pdf) 
+    [Download Report (pbix)](Report/Bicycle_Report.pbix) 
 3. Refresh the data connection if needed  
 4. Interact with visuals to explore trends by **season, rider type, and time**  
 
