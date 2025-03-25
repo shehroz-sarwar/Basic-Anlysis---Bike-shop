@@ -24,6 +24,8 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
 
 ![Page 1](SQL/SQL_Query.jpeg)
 
+📄 [Download SQL Query File](./sql/bike_query.sql)
+
 
 ### 3. Power BI Modeling
 - Imported the cleaned dataset into Power BI.
