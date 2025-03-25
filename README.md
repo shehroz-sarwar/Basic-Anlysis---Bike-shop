@@ -93,4 +93,4 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
 
 ---
 
-📫 **Questions or feedback?** Feel free to reach out or connect with me on LinkedIn!
+📫 [**Questions or feedback?** Feel free to reach out or connect with me on LinkedIn!](www.linkedin.com/in/shehrozsarwar)
