@@ -82,5 +82,6 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
 3. Refresh the data connection if needed  
 4. Interact with visuals to explore trends by **season, rider type, and time**  
 
+---
 
 📫 [**Questions or feedback?** Feel free to reach out or connect with me on LinkedIn!](www.linkedin.com/in/shehrozsarwar)
