@@ -44,7 +44,7 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
   
   ![Page 1](Report/Bicycle_Report-1.png)
 
-  [Download Full Report (PDF)](Report/Bicycle_Report.pdf)
+  [Download Report (PDF)](Report/Bicycle_Report.pdf)
 
 
 
