@@ -31,7 +31,7 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
 
 ### 4. Report Creation
 - Created a detailed and interactive **Power BI Report**.
-  ![Page 1](.//.png)
+  ![Page 1](Report/Bicycle_Report-1.png)
 - Visuals explore seasonality, rider behavior, profit trends, and time-based sales patterns.
 
 ---
