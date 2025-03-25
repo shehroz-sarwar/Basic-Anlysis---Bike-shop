@@ -31,7 +31,7 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
 
 ![Page 1](SQL/SQL_Query.jpeg)
 
-📄 [Download SQL Query File](SQL/SQL_Query.sql)
+  📄 [Download SQL Query File](SQL/SQL_Query.sql)
 
 
 ### 3. Power BI Modeling
@@ -42,10 +42,9 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
 - Created a detailed and interactive **Power BI Report**.
 - Visuals explore seasonality, rider behavior, profit trends, and time-based sales patterns.
   
-  ![Page 1](Report/Bicycle_Report-1.png)
+    ![Page 1](Report/Bicycle_Report-1.png)
 
-
-   [Download Full Report (PDF)](Report/Bicycle_Report.pdf)
+    [Download Full Report (PDF)](Report/Bicycle_Report.pdf)
 
 
 
