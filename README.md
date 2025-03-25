@@ -24,6 +24,7 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
 - Combined data from two years and joined it with cost-related information.
 - Created calculated fields such as Revenue and Profit inside SQL before moving the data to Power BI.
 
+![Page 1]()
 
 
 ### 3. Power BI Modeling
