@@ -27,7 +27,7 @@ The goal is to generate actionable insights that help ABC Bike Shop make data-dr
 
 ### 3. Power BI Modeling
 - Imported the cleaned dataset into Power BI.
-- Built KPIs and calculated metrics using **DAX**.
+-  Created a **Profit Margin KPI** using a DAX measure.
 
 ### 4. Report Creation
 - Created a detailed and interactive **Power BI Report**.
